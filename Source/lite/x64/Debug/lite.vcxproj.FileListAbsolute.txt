@@ -1,0 +1,3 @@
+C:\Users\Firytama\source\repos\lite\lite\x64\Debug\lite.vcxproj.AssemblyReference.cache
+C:\Users\Firytama\source\repos\lite\lite\x64\Debug\lite.Power.resources
+C:\Users\Firytama\source\repos\lite\lite\x64\Debug\lite.vcxproj.GenerateResource.cache
